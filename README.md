@@ -6,6 +6,11 @@ ROTC is a 2-day hands-on, semi-guided workshop, with an additional four-hour ROT
 
 [Final Assignment](https://github.com/twlabs/ROTC-semi-guided-material/tree/main/final_assignment)
 
+## Members
+1. Arghya Banerjee
+2. Samridhi Agarwal
+3. Harshavardhan Reddy
+
 ## Additional Resources
 
 

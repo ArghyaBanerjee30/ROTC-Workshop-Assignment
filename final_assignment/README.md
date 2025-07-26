@@ -1,5 +1,10 @@
 # Kubernetes Assignment
 
+## Members
+1. Arghya Banerjee
+2. Samridhi Agarwal
+3. Harshavardhan Reddy
+
 ## New Project - Crud REST API MVP
 
 You are Joey, a junior infra engineer who has just joined a new project. Your project has developed an MVP for a CRUD REST API. Your project uses `docker-compose` to manage the deployment and operation of services. However, with the increase in user volume, you have found that the deployment method of `docker-compose` can no longer meet your needs. The team has decided to use `kubernetes` to replace `docker-compose` in order to improve the scalability and reliability of the service.
