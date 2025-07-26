@@ -92,7 +92,7 @@ Once again you'll need to add similar environment variables as per the docker-co
 7. Holly now believe's you should be able to test the app's REST API, she's super excited :-) She's advised that you can use a kubectl port forwarding cmd to gain access to it:
 
 ```
-kubectl port-forward service/backend-api 8000:8000
+kubectl port-forward service/backend-api-service 8000:8000
 ```
 
 She hopes you can interact with the REST API just like you have done when you ran the solution with docker-compose. If it doesn't work then you should review any errors or logs and troubleshoot it before proceeding.
